@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author ITCoopAdmin
+ * @author MWatkins
  */
 public class Checkfiledifferences {
 
